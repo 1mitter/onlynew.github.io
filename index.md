@@ -1,4 +1,4 @@
-[![Unity](https://unity-assetstorev2-prd.storage.googleapis.com/cdn-origin/assets/as/views/common/components/Logo/src/unity-assetstore-logo-new.50ac708aeae28b8b6bf369ece5875fa5.svg)](https://assetstore.unity.com/publishers/59523)
+[![Unity](https://unity-assetstorev2-prd.storage.googleapis.com/cdn-origin/assets/as/views/common/components/Logo/src/unity-assetstore-logo-new.50ac708aeae28b8b6bf369ece5875fa5.svg)](https://assetstore.unity.com/publishers/59523).
 
 __________________________________________________________________________________________
 
