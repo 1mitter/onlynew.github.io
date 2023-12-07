@@ -1,7 +1,7 @@
-## [Body Proportions](BodyProportions.md)
+## [Body Proportions](BodyProportions)
 [![cover](/assets/img/BodyProportions.png)](BodyProportions)
 
-## [Character Boom](CharacterBoom.md)
+## [Character Boom](CharacterBoom)
 [![cover](/assets/img/character_boom_cover.png)](CharacterBoom)
 [![sketch](/assets/img/sketch.png)](CharacterBoom)
 
