@@ -26,9 +26,7 @@ Before proceeding, please setup Scalable Bone and create a virtual skeleton.
 ### [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290?aid=1101lqGVS)
 1. Install your IK onto the virtual skeleton.
 2. As this asset's script default execution order is compatible with Final IK, no modifications are required.
-
 ![BP](/assets/img/Configuration/FinalIK2.png)
-
 3. Set "Fixed Transform" to false on Final IK inspector.
  
 ![BP](/assets/img/Configuration/FinalIK.png)
