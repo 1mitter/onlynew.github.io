@@ -28,7 +28,8 @@ Before proceeding, please setup Scalable Bone and create a virtual skeleton.
 2. As this asset's script default execution order is compatible with Final IK, no modifications are required.
 
 ![BP](/assets/img/Configuration/FinalIK2.png)
-3. Set "Fixed Transform" to false on Final IK inspector.
+
+3.Set "Fixed Transform" to false on Final IK inspector.
  
 ![BP](/assets/img/Configuration/FinalIK.png)
 
