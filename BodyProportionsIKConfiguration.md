@@ -21,7 +21,7 @@ If you don't mind the IK calculations lagging by one frame, we can use a third m
 ![BP](/assets/img/Configuration/unknownOrder.png)
 
 ## Configuration Steps 
-Before you begin, please familiarize yourself with the standard usage of your IK **to avoid misidentifying the source of errors**. 
+**Before you begin, please familiarize yourself with the standard usage of your IK to avoid misidentifying the source of errors**. 
 Before proceeding, please setup Scalable Bone and create a virtual skeleton. 
 ### [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290?aid=1101lqGVS)
 1. Install your IK onto the virtual skeleton.
